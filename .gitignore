@@ -1,3 +1,5 @@
+*.swo
+*.swp
 ### macOS ###
 *.DS_Store
 .AppleDouble
